@@ -1,2 +1,2 @@
 # hashingpass
-Example of hashing function with sha256
+Example of hashing function with sha512, written in Python.
