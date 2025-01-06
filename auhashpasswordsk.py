@@ -1,12 +1,12 @@
-import hashlib
-import maskpass as mp
-def hash_password(password):
+import hashlib #library to hash
+import maskpass as mp #library to hide the password
+def hash_password(password): #function to hash the password
     return hashlib.sha512(password.encode()).hexdigest()
 
-password = '974a36183a171f87abefe10d6a84d855edc10962cc18884f325e167ab334a33b3e8ff50ebc7fe7ec4c988ed9488264098a882d5aeada5daab01ac815980faa79'
+password = 'your_hashed_password' #use the hash_password function to hash and print the password, then enter the hashed result
 
-input_password = mp.advpass("amogus! password: ")
-if hash_password(input_password) == password:
+input_password = mp.advpass("amogus! password: ") #input password, but hidden with asterisks
+if hash_password(input_password) == password: #check the hashed version of inputed password and compare to right password
     print("amogus! password is correct!")
 else:
     print("amogus! password is incorrect! you're dol...phin!")
