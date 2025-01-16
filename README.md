@@ -2,5 +2,5 @@
 Example of hashing function with sha512, written in Python.
 ## Dependicies
 ```
-pip install hashlib maskpass
+pip install maskpass
 ```
