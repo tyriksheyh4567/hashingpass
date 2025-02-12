@@ -1,5 +1,5 @@
 # hashingpass
-Example of hashing function with sha512, written in Python.
+Example of hashing function with **SHA512**, written in **Python**.
 ## Dependencies
 ```
 pip install maskpass
