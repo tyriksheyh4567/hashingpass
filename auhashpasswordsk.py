@@ -1,4 +1,4 @@
-#Orignal author: yaros/tyriksheyh4567/Yaromir Sheydaev.
+#Orignal author: yaros/tyriksheyh4567/Yaromir Sheydaev. No need for credit if you fork it (even if your code will be closed source).
 #This is public domain, everything about things you can do with the code is in the LICENSE file.
 #Ver 1.1. Made in 04.02.2025. Updated the comments.
 import hashlib #library to hash
