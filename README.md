@@ -5,7 +5,7 @@ Example of hashing function with **SHA512**, written in **Python**.
 pip install maskpass
 ```
 - ⭱ For hiding the password.
-- And obviously...<br>Git!
+- And obviously...<br>Git, Python and PIP!
 ## Get the project
 ```
 git clone https://github.com/tyriksheyh4567/hashingpass.git
