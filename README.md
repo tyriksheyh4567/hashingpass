@@ -1,7 +1,16 @@
 # hashingpass
 Example of hashing function with **SHA512**, written in **Python**.
 ## Dependencies
+```bash
+pip install maskpass
 ```
+### Linux
+#### Globally:
+```bash
+pipx install maskpass
+```
+#### In virtual enviroment:
+```bash
 pip install maskpass
 ```
 - ⭱ For hiding the password.
